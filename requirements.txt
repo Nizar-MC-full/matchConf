@@ -13,7 +13,7 @@ PyYAML==5.4.1
 selenium==3.141.0
 webdriver-manager==3.4.2
 filelock==3.2
-gitpython==3.1.27
+gitpython==3.1.43
 allure-pytest==2.9.45
 atlassian-python-api==3.28.0
 packaging~=21.3
