@@ -6,7 +6,7 @@
   "hostRules": [
     {
       "hostType": "merge-confidence",
-      "token": ""
+      "token": "123456"
     }
   ],
 
